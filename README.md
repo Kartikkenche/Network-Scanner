@@ -21,7 +21,7 @@ Ensure you have **Python 3.x** installed on your system.
 
 ### 🔹 Clone the Repository
 ```bash
-git clone https://github.com/yourusername/network-scanner.git
+git clone https://github.com/kartikkenche/network-scanner.git
 cd network-scanner
 ```
 
